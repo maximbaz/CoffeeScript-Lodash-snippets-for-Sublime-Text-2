@@ -1,9 +1,10 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.reduceRight(${1:list}, function(${10:memo}, ${20:val}){
-    return $0; // return memo
-}, ${25: memo-init});]]></content>
+   <content><![CDATA[_.reduceRight ${1:list}, (${2:value}) ->
+    ${3:memo}
+, ${4:init-memo}
+$0]]></content>
     <tabTrigger>_reduceRight</tabTrigger>
-    <scope>source.js</scope>
+    <scope>source.coffee</scope>
     <description>reduce (Alias: foldr) </description>
 </snippet>
