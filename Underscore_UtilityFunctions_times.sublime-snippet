@@ -3,5 +3,5 @@
    <content><![CDATA[_.times ${1:n}, ${2:function} $0]]></content>
     <tabTrigger>_times</tabTrigger>
     <scope>source.coffee</scope>
-    <description>times </description>
+    <description>Executes the callback function n times, returning an array of the results of each callback execution</description>
 </snippet>

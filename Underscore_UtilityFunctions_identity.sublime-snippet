@@ -3,5 +3,5 @@
    <content><![CDATA[_.identity ${1:object} $0]]></content>
     <tabTrigger>_identity</tabTrigger>
     <scope>source.coffee</scope>
-    <description>identity </description>
+    <description>This function returns the first argument passed to it</description>
 </snippet>

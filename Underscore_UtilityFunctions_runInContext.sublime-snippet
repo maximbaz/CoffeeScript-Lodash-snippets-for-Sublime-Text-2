@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.runInContext ${2:context} $0]]></content>
+    <tabTrigger>_runInContext</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Create a new lodash function using the given context object</description>
+</snippet>

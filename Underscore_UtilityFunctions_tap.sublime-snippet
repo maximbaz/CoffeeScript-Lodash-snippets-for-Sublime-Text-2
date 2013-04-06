@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.tap ${1:interceptor-function} $0]]></content>
+   <content><![CDATA[_.tap ${1:value}, ${2:interceptor-function} $0]]></content>
     <tabTrigger>_tap</tabTrigger>
     <scope>source.coffee</scope>
-    <description>tap </description>
+    <description>Invokes interceptor with the value as the first argument, and then returns value</description>
 </snippet>

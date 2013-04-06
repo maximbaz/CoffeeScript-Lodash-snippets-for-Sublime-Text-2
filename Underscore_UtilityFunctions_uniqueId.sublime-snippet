@@ -3,5 +3,5 @@
    <content><![CDATA[_.uniqueId ${1:prefix} $0]]></content>
     <tabTrigger>_uniqueId</tabTrigger>
     <scope>source.coffee</scope>
-    <description>uniqueId </description>
+    <description>Generates a unique ID. If prefix is passed, the ID will be appended to it</description>
 </snippet>
