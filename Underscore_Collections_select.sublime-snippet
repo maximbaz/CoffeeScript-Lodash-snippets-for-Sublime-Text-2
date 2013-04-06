@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.filter ${1:list}, ${2:callback} $0]]></content>
-    <tabTrigger>_filter</tabTrigger>
+   <content><![CDATA[_.select ${1:list}, ${2:callback} $0]]></content>
+    <tabTrigger>_select</tabTrigger>
     <scope>source.coffee</scope>
     <description>Examines each element in a collection, returning an array of all elements the callback returns truthy for\n(Aliases: filter, select)</description>
 </snippet>

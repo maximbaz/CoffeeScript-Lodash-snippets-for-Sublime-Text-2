@@ -3,5 +3,5 @@
    <content><![CDATA[_.pluck ${1:list}, ${2:propertyName} $0]]></content>
     <tabTrigger>_pluck</tabTrigger>
     <scope>source.coffee</scope>
-    <description>pluck (extract named property values)</description>
+    <description>Retrieves the array of values of a specified property from all elements in the collection</description>
 </snippet>

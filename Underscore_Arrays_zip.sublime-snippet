@@ -3,5 +3,5 @@
    <content><![CDATA[_.zip ${1:*arrays} $0]]></content>
     <tabTrigger>_zip</tabTrigger>
     <scope>source.coffee</scope>
-    <description>zip </description>
+    <description>Groups the elements of each array at their corresponding indexes</description>
 </snippet>

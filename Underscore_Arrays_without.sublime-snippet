@@ -3,5 +3,5 @@
    <content><![CDATA[_.without ${1:array}, ${2:*values-to-skip} $0]]></content>
     <tabTrigger>_without</tabTrigger>
     <scope>source.coffee</scope>
-    <description>without (copy any except values included)</description>
+    <description>Creates an array with all occurrences of the passed values removed using strict equality</description>
 </snippet>

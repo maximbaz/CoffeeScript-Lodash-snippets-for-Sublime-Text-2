@@ -3,5 +3,5 @@
    <content><![CDATA[_.intersection ${1:*arrays} $0]]></content>
     <tabTrigger>_intersection</tabTrigger>
     <scope>source.coffee</scope>
-    <description>intersection </description>
+    <description>Computes the intersection of all the passed-in arrays using strict equality</description>
 </snippet>

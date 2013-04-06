@@ -3,5 +3,5 @@
    <content><![CDATA[_.difference ${1:array}, ${2:*others} $0]]></content>
     <tabTrigger>_difference</tabTrigger>
     <scope>source.coffee</scope>
-    <description>difference </description>
+    <description>Creates an array of array elements not present in the other arrays</description>
 </snippet>

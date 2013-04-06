@@ -3,5 +3,5 @@
    <content><![CDATA[_.invoke ${1:list}, ${2:methodName}${3:, ${4:*arguments}} $0]]></content>
     <tabTrigger>_invoke</tabTrigger>
     <scope>source.coffee</scope>
-    <description>invoke (invokes named method on each, opt:arguments passed to each)</description>
+    <description>Invokes the method named by methodName on each element in the collection, returning an array of the results of each invoked method. Additional arguments will be passed to each invoked method. If methodName is a function, it will be invoked for</description>
 </snippet>

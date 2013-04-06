@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.initial ${1:array}${2:, ${3:how-many}} $0]]></content>
+   <content><![CDATA[_.initial ${1:array}${2:, ${3:how-many or callback}} $0]]></content>
     <tabTrigger>_initial</tabTrigger>
     <scope>source.coffee</scope>
-    <description>initial (exclude all but last n:1)</description>
+    <description>Gets all but the last element of array</description>
 </snippet>

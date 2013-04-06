@@ -3,5 +3,5 @@
    <content><![CDATA[_.size ${1:list} $0]]></content>
     <tabTrigger>_size</tabTrigger>
     <scope>source.coffee</scope>
-    <description>size (number of values in list) </description>
+    <description>Returns list.length or number of values in list</description>
 </snippet>

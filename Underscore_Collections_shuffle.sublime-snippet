@@ -3,5 +3,5 @@
    <content><![CDATA[_.shuffle ${1:list} $0]]></content>
     <tabTrigger>_shuffle</tabTrigger>
     <scope>source.coffee</scope>
-    <description>shuffle (using Fisher-Yates shuffle)</description>
+    <description>Creates an array of shuffled array values</description>
 </snippet>

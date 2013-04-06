@@ -3,5 +3,5 @@
    <content><![CDATA[_.toArray ${1:list} $0]]></content>
     <tabTrigger>_toArray</tabTrigger>
     <scope>source.coffee</scope>
-    <description>toArray (from anything iterable) </description>
+    <description>Converts the collection to an array</description>
 </snippet>
