@@ -3,5 +3,5 @@
    <content><![CDATA[_.wrap ${1:function}, ${2:wrapper} $0]]></content>
     <tabTrigger>_wrap</tabTrigger>
     <scope>source.coffee</scope>
-    <description>wrap </description>
+    <description>Creates a function that passes value to the wrapper function as its first argument. Additional arguments passed to the function are appended to those passed to the wrapper function</description>
 </snippet>

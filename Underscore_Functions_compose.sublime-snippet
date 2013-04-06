@@ -3,5 +3,5 @@
    <content><![CDATA[_.compose ${1:*functions} $0]]></content>
     <tabTrigger>_compose</tabTrigger>
     <scope>source.coffee</scope>
-    <description>compose </description>
+    <description>Creates a function that is the composition of the passed functions, where each function consumes the return value of the function that follows</description>
 </snippet>

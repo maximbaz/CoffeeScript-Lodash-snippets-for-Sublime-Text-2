@@ -3,5 +3,5 @@
    <content><![CDATA[_.after ${1:count}, ${2:function} $0]]></content>
     <tabTrigger>_after</tabTrigger>
     <scope>source.coffee</scope>
-    <description>after </description>
+    <description>If n is greater than 0, a function is created that is restricted to executing func, with the this binding and arguments of the created function, only after it is called n times. If n is less than 1, func is executed immediately, without a this binding or additional arguments, and its result is returned</description>
 </snippet>

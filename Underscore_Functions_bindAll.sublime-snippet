@@ -3,5 +3,5 @@
    <content><![CDATA[_.bindAll ${1:object}${2:, ${3:*methodNames}} $0]]></content>
     <tabTrigger>_bindAll</tabTrigger>
     <scope>source.coffee</scope>
-    <description>bindAll </description>
+    <description>Binds methods on object to object, overwriting the existing method. Method names may be specified as individual arguments or as arrays of method names. If no method names are provided, all the function properties of object will be bound</description>
 </snippet>

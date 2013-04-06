@@ -3,5 +3,5 @@
    <content><![CDATA[_.delay ${1:function}, ${2:wait}${3:, ${4:*arguments}} $0]]></content>
     <tabTrigger>_delay</tabTrigger>
     <scope>source.coffee</scope>
-    <description>delay </description>
+    <description>Executes the func function after wait milliseconds. Additional arguments will be passed to func when it is invoked</description>
 </snippet>

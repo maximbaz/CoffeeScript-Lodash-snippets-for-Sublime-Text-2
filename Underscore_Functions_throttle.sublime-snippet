@@ -3,5 +3,5 @@
    <content><![CDATA[_.throttle ${1:function}, ${2:wait-milliseconds} $0]]></content>
     <tabTrigger>_throttle</tabTrigger>
     <scope>source.coffee</scope>
-    <description>throttle </description>
+    <description>Creates a function that, when executed, will only call the func function at most once per every wait milliseconds</description>
 </snippet>

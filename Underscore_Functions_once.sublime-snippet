@@ -3,5 +3,5 @@
    <content><![CDATA[_.once ${1:function} $0]]></content>
     <tabTrigger>_once</tabTrigger>
     <scope>source.coffee</scope>
-    <description>once </description>
+    <description>Creates a function that is restricted to execute func once. Repeat calls to the function will return the value of the first call</description>
 </snippet>

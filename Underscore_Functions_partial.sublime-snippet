@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.partial ${1:function}${2:, ${3:*arguments}} $0]]></content>
+    <tabTrigger>_partial</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Creates a function that, when called, invokes func with any additional partial arguments PREPENDED to those passed to the new function</description>
+</snippet>

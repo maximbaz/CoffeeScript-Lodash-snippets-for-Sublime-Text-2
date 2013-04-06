@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.bindKey ${1:object}, ${2:methodKey}${3:, ${4:*arguments}} $0]]></content>
+    <tabTrigger>_bindKey</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Creates a function that, when called, invokes the method at object[key] and prepends any additional bindKey arguments to those passed to the bound function. This method differs from _.bind by allowing bound functions to reference methods that will be redefined or don't yet exist</description>
+</snippet>
