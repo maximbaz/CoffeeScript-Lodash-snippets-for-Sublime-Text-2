@@ -1,4 +1,4 @@
-<!-- _ as of version 1.3.1 -->
+<!-- _ as of version 1.1.1 -->
 <snippet>
    <content><![CDATA[_.head ${1:array}${2:, ${3:how-many or callback}} $0]]></content>
     <tabTrigger>_head</tabTrigger>
