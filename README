@@ -1,6 +1,7 @@
-Underscore snippets for CoffeeScript in Sublime Text 2.
+Lodash snippets for CoffeeScript in Sublime Text 2.
 
-Originally forked from https://github.com/sumtraveller/sublime-text-underscore-snippets
+Developed for Lodash v1.1.1
+http://lodash.com/docs
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 Released under the MIT License : http://www.opensource.org/licenses/mit-license.php
