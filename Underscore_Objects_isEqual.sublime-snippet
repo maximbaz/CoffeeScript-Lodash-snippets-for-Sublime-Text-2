@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.isEqual ${1:object}, ${5:other} $0]]></content>
+   <content><![CDATA[_.isEqual ${1:object}, ${2:other}${3:, ${4:callback}} $0]]></content>
     <tabTrigger>_isEqual</tabTrigger>
     <scope>source.coffee</scope>
-    <description>isEqual </description>
+    <description>Performs a deep comparison between two values to determine if they are equivalent to each other. If callback is passed, it will be executed to compare values</description>
 </snippet>

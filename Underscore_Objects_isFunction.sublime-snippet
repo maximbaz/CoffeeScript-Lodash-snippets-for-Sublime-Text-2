@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.isFunction ${1:object} $0]]></content>
+   <content><![CDATA[_.isFunction ${1:value} $0]]></content>
     <tabTrigger>_isFunction</tabTrigger>
     <scope>source.coffee</scope>
-    <description>isFunction </description>
+    <description>Checks if value is a function</description>
 </snippet>

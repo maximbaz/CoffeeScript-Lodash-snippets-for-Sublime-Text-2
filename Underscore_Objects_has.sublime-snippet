@@ -3,5 +3,5 @@
    <content><![CDATA[_.has ${1:object}, ${2:key} $0]]></content>
     <tabTrigger>_has</tabTrigger>
     <scope>source.coffee</scope>
-    <description>has </description>
+    <description>Checks if the specified object property exists and is a direct property, instead of an inherited property</description>
 </snippet>

@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.omit ${1:object}, ${2:callback or *properties} $0]]></content>
+    <tabTrigger>_omit</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Creates a shallow clone of object excluding the specified properties. Property names may be specified as individual arguments or as arrays of property names. If a callback function is passed, it will be executed for each property in the object, omitting the properties callback returns truthy for</description>
+</snippet>

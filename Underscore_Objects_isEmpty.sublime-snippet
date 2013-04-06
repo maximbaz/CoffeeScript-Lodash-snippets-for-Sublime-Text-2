@@ -3,5 +3,5 @@
    <content><![CDATA[_.isEmpty ${1:object} $0]]></content>
     <tabTrigger>_isEmpty</tabTrigger>
     <scope>source.coffee</scope>
-    <description>isEmpty </description>
+    <description>Checks if value is empty. Arrays, strings, or arguments objects with a length of 0 and objects with no own enumerable properties are considered "empty"</description>
 </snippet>

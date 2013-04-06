@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.clone ${1:object} $0]]></content>
+   <content><![CDATA[_.clone ${1:object}${2:, ${3:deep}} $0]]></content>
     <tabTrigger>_clone</tabTrigger>
     <scope>source.coffee</scope>
-    <description>clone </description>
+    <description>Creates a clone of value. If deep is true, nested objects will also be cloned, otherwise they will be assigned by reference</description>
 </snippet>

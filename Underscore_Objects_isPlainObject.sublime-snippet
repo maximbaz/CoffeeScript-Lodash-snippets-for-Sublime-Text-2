@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.isPlainObject ${1:value} $0]]></content>
+    <tabTrigger>_isPlainObject</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Checks if a given value is an object created by the Object constructor</description>
+</snippet>

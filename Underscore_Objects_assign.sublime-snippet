@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.extend ${1:destination}, ${2:*sources} $0]]></content>
-    <tabTrigger>_extend</tabTrigger>
+   <content><![CDATA[_.assign ${1:destination}, ${2:*sources} $0]]></content>
+    <tabTrigger>_assign</tabTrigger>
     <scope>source.coffee</scope>
     <description>Assigns own enumerable properties of source object(s) to the destination object. Subsequent sources will overwrite property assignments of previous sources</description>
 </snippet>

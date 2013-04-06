@@ -1,0 +1,7 @@
+<!-- _ as of version 1.3.1 -->
+<snippet>
+   <content><![CDATA[_.findKey ${1:object}, ${2:callback} $0]]></content>
+    <tabTrigger>_findKey</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>Returns the key of the element that passes the callback check, instead of the element itself</description>
+</snippet>

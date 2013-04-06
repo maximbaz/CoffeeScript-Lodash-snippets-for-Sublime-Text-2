@@ -1,7 +1,7 @@
 <!-- _ as of version 1.3.1 -->
 <snippet>
-   <content><![CDATA[_.isArray ${1:object} $0]]></content>
+   <content><![CDATA[_.isArray ${1:value} $0]]></content>
     <tabTrigger>_isArray</tabTrigger>
     <scope>source.coffee</scope>
-    <description>isArray </description>
+    <description>Checks if value is an array</description>
 </snippet>
