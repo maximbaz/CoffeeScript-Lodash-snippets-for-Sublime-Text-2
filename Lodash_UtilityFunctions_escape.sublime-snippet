@@ -3,5 +3,5 @@
    <content><![CDATA[_.escape ${1:string} $0]]></content>
     <tabTrigger>_escape</tabTrigger>
     <scope>source.coffee</scope>
-    <description>Converts the characters &, <, >, ", and ' in string to their corresponding HTML entities</description>
+    <description>Converts the characters &amp;, &lt;, &gt;, &quot;, and &#39; in string to their corresponding HTML entities</description>
 </snippet>
